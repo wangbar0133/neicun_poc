@@ -2,6 +2,12 @@
 
 ## Event
 
+## BNO
+
+```shell
+forge test --contracts ./src/bno/poc.sol -vv
+```
+
 ### LibertiVault
 
 ```shell
