@@ -2,6 +2,12 @@
 
 ## Event
 
+## ffist
+
+```shell
+forge test --contracts ./src/ffist/poc.sol -vv
+```
+
 ## BNO
 
 ```shell
