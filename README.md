@@ -2,6 +2,12 @@
 
 ## Event
 
+## IEGT
+
+```shell
+forge test --contracts ./src/iegt/poc.sol -vvvv
+```
+
 ## ffist
 
 ```shell
