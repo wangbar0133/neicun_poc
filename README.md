@@ -2,19 +2,25 @@
 
 ## Event
 
-## IEGT
+### Uwerx
 
 ```shell
-forge test --contracts ./src/iegt/poc.sol -vvvv
+forge test --contracts ./src/werx/poc.sol -vv
 ```
 
-## ffist
+### IEGT
+
+```shell
+forge test --contracts ./src/iegt/poc.sol -vv
+```
+
+### ffist
 
 ```shell
 forge test --contracts ./src/ffist/poc.sol -vv
 ```
 
-## BNO
+### BNO
 
 ```shell
 forge test --contracts ./src/bno/poc.sol -vv
